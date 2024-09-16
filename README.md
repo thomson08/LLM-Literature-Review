@@ -74,9 +74,13 @@ There is also interest in hybrid approaches that combine the benefits of **garba
 
 ### Key Papers and Books:
 
-- **The Garbage Collection Handbook** by R. Jones, A. Hosking, and E. Moss (2011): Provides a comprehensive guide to the theory and implementation of garbage collection systems, a key resource for understanding memory management in modern languages.
-- **Boehm, H., & Weiser, M. (1988). Garbage Collection in an Uncooperative Environment**: A foundational paper that introduced garbage collection techniques for languages not designed with GC in mind, influencing the development of future memory management systems.
-- **Lattner, C. (2014). The Swift Programming Language**: Details how ARC was implemented in Swift, marking a significant innovation in memory management for mobile applications.
+1.	The Garbage Collection Handbook: The Art of Automatic Memory Management by R. Jones, A. Hosking, and E. Moss (2011):
+This book covers the fundamental principles of garbage collection, including various algorithms and techniques used in modern programming languages.
+2.	Boehm, H., & Weiser, M. (1988). Garbage Collection in an Uncooperative Environment:
+A foundational paper that introduced garbage collection techniques for languages not designed with GC in mind, influencing the development of future memory management systems.
+3.	Lattner, C. (2014). The Swift Programming Language:
+Details how ARC was implemented in Swift, marking a significant innovation in memory management for mobile applications.
+
 
 ## **Future Research Directions**
 
