@@ -1,7 +1,6 @@
 # **README: Memory Management Techniques in Programming Languages and Their Evolution for Mobile Application Development**  
 
-By Thomas Ninh 
-LLM used : OpenAI GPT-4
+By Thomas Ninh and LLM used : OpenAI GPT-4
 
 ## **Introduction**
 
