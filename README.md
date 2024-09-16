@@ -2,6 +2,8 @@
 
 By Thomas Ninh and LLM used : OpenAI GPT-4
 
+---
+
 ## **Introduction**
 
 Memory management is a critical aspect of programming language design, especially for mobile applications where resources such as memory and battery life are constrained. Over the decades, memory management techniques have evolved from manual memory handling in languages like C and C++ to automated systems such as garbage collection and Automatic Reference Counting (ARC) in modern languages like Java, Swift, and Kotlin.
