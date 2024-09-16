@@ -1,9 +1,7 @@
-Certainly! Below is a complete README.md that follows the structure required by your assignment.
 
----
+# **README: Memory Management Techniques in Programming Languages and Their Evolution for Mobile Application Development**  
 
-# **Memory Management Techniques in Programming Languages and Their Evolution for Mobile Application Development**  
-(Under Construction)
+## **By Thomas Ninh
 
 ## **Introduction**
 
@@ -106,4 +104,3 @@ The future of mobile memory management lies in further optimizing these systems,
 
 ---
 
-This README.md is structured to meet your assignment requirements. It provides an engaging exploration of memory management techniques, their historical evolution, current research
