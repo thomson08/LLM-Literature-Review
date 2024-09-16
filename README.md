@@ -1,7 +1,7 @@
-
 # **README: Memory Management Techniques in Programming Languages and Their Evolution for Mobile Application Development**  
 
-## By Thomas Ninh
+By Thomas Ninh 
+LLM used : OpenAI GPT-4
 
 ## **Introduction**
 
@@ -23,7 +23,7 @@ I used OpenAI's GPT-4 as my primary Large Language Model (LLM) in order to explo
 - What are the trade-offs between manual memory management, garbage collection, and ARC in mobile environments?
 - What future advancements in memory management could further optimize mobile app performance?
 
-
+---
 
 ## **Historical Development of Memory Management**
 
@@ -65,16 +65,6 @@ Looking ahead, research is focused on more efficient memory management technique
 
 There is also interest in hybrid approaches that combine the benefits of **garbage collection** and **reference counting**, offering more efficient memory management for mobile devices with limited resources.
 
-## **Influential Researchers and Papers**
-
-- **Hans-J. Boehm**: Pioneered work on **garbage collection** in unmanaged environments, which heavily influenced the design of modern GC systems.
-- **Chris Lattner**: Creator of **Swift** and the architect behind ARC, which became the cornerstone of memory management in iOS development.
-- **Guy Steele**: Contributed to the development of **Java** and its memory management system, making Java a widely adopted language for both server and mobile applications.
-
-
-
----
-
 
 ## **Conclusion**
 
@@ -83,6 +73,12 @@ Memory management has evolved significantly, from manual techniques that provide
 The future of mobile memory management lies in further optimizing these systems, whether through hybrid models, region-based management, or more sophisticated garbage collection algorithms. These advancements will help mobile applications run more efficiently on resource-constrained devices, ensuring smooth performance for users.
 
 ---
+
+## **Influential Researchers and Papers**
+
+- **Hans-J. Boehm**: Pioneered work on **garbage collection** in unmanaged environments, which heavily influenced the design of modern GC systems.
+- **Chris Lattner**: Creator of **Swift** and the architect behind ARC, which became the cornerstone of memory management in iOS development.
+- **Guy Steele**: Contributed to the development of **Java** and its memory management system, making Java a widely adopted language for both server and mobile applications.
 
 ### Key Papers and Books:
 
