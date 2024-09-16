@@ -7,14 +7,7 @@
 
 Memory management is a critical aspect of programming language design, especially for mobile applications where resources such as memory and battery life are constrained. Over the decades, memory management techniques have evolved from manual memory handling in languages like C and C++ to automated systems such as garbage collection and Automatic Reference Counting (ARC) in modern languages like Java, Swift, and Kotlin.
 
-This README explores how memory management techniques in programming languages have evolved, their impact on mobile development, and what future advancements might look like. By leveraging an LLM (Claude-3-Opus) to investigate this topic, we will look at historical developments, key researchers, subfields that contributed to memory management, and how these innovations shape mobile application development today.
-
-## **Questions:**
-
-- How have memory management techniques evolved in programming languages, and what impact have they had on the performance of mobile applications?
-- What are the trade-offs between manual memory management, garbage collection, and ARC in mobile environments?
-- How has the design of modern mobile languages like Swift and Kotlin been shaped by memory management techniques?
-- What future advancements in memory management could further optimize mobile app performance?
+I used OpenAI's GPT-4 as my primary Large Language Model (LLM) in order to explores how memory management techniques in programming languages have evolved, their impact on mobile development, and what future advancements might look like. By leveraging an LLM (Claude-3-Opus) to investigate this topic, we will look at historical developments, key researchers, subfields that contributed to memory management, and how these innovations shape mobile application development today.
 
 ## **Relevant Concepts:**
 
@@ -23,6 +16,15 @@ This README explores how memory management techniques in programming languages h
 - **Automatic Reference Counting (ARC)**: A system used in iOS (Swift/Objective-C) to track and manage memory by keeping a count of how many references point to an object.
 - **Memory Leaks**: A common issue in manual memory management where memory that is no longer needed is not properly released, leading to inefficiencies.
 - **Hybrid Memory Management**: A combination of techniques that seek to balance performance and safety, offering potential future improvements for mobile apps.
+
+## **Questions:**
+
+- How have memory management techniques evolved in programming languages, and what impact have they had on the performance of mobile applications?
+- What are the trade-offs between manual memory management, garbage collection, and ARC in mobile environments?
+- How has the design of modern mobile languages like Swift and Kotlin been shaped by memory management techniques?
+- What future advancements in memory management could further optimize mobile app performance?
+
+
 
 ## **Historical Development of Memory Management**
 
@@ -42,7 +44,7 @@ In mobile development, memory efficiency and battery life are critical. Apple's 
 Kotlin, the modern Android language, continues to rely on the JVM’s garbage collection but integrates well with mobile-specific optimizations that minimize GC’s impact on performance.
 
 
-
+## **
 ### **Evolution of Memory Management in Programming Languages**
 *Question:* How has memory management evolved from manual techniques to automated systems, and what impact has this had on mobile applications?  
 *LLM Insights:*  
