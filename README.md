@@ -1,7 +1,7 @@
 
 # **README: Memory Management Techniques in Programming Languages and Their Evolution for Mobile Application Development**  
 
-## **By Thomas Ninh
+## By Thomas Ninh
 
 ## **Introduction**
 
